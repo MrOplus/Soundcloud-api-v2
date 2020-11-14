@@ -6,8 +6,8 @@ namespace App\Helper;
 
 class SoundgenHelper
 {
-    private $client_id = "wZqSTsuaIqNKp9h7w02H2wjF7Cez8C4y";
-    private $app_version = "1591174330";
+    private $client_id = "egDzE3xmafwb5ki9VMXAstPEmrdBItZq";
+    private $app_version = "1605261941";
     private $url = "" ;
     public function getUrl(){
         return $this->url;
